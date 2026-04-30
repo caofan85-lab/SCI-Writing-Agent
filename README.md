@@ -1,2 +1,3 @@
 # SCI-Writing-Agent
-AI Agent for scientific writing and genomics research
+
+AI agent for scientific writing.
